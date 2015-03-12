@@ -1,0 +1,1 @@
+DataNucleus plugin for Google App Engine.  This plugin allows Java developers to access the Google App Engine datastore via JDO and JPA.
